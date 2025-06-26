@@ -20,6 +20,13 @@ return {
 
         -- install any other package
         "tree-sitter-cli",
+        "prettier",
+        "eslint_d",
+        "typescript-language-server",
+        "stimulus-language-server",
+        "dockerfile-language-server",
+        "intelephense",
+        "spectral-language-server",
       },
     },
   },
