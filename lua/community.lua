@@ -19,5 +19,6 @@ return {
   { import = "astrocommunity.recipes.heirline-nvchad-statusline" },
   { import = "astrocommunity.pack.php" },
   { import = "astrocommunity.pack.go" },
+  { import = "astrocommunity.git.blame-nvim" },
   -- import/override with your plugins folder
 }
